@@ -46,7 +46,7 @@ Run some commands
   *cat /home/linux/ieng6/cs15lwi23/public/hello.txt
   3. If your result is somewhat similar to the following image, then you are good to go.![image](https://user-images.githubusercontent.com/103611867/212762087-d8d08a85-4f86-4425-abce-3eb92cb9d817.png)
 
-  Congradualations, you have completed this lab 1 tutorial on how to setup vscode and remote connection in a virutal environment!!!!!!
+  Congratualations, you have completed this lab 1 tutorial on how to setup vscode and remote connection in a virutal environment!!!!!!
   
   
   
