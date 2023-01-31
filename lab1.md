@@ -1,5 +1,5 @@
 ## Lab report for incoming cse 15L students 
-
+[https://github.com/WNSMTMZG/cse15l-lab-reports/blob/main/lab1.md](lab-report-1.md)
 
 # How to install VScode on windows:
 
