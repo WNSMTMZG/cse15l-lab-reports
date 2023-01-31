@@ -39,19 +39,19 @@ This means you are good to go. Start explooring, Hooray!!!
 * 1. Finally, we will be running some commands yourself on the terminal, once you are successfully logged into the remote system. 
 * 2. Try the following commands and see what print out. 
  
-  *cd ~
-  *cd
-  *ls -lat
-  *ls -a
-  *ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username
-  *cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
+  * cd ~
+  * cd
+  * ls -lat
+  * ls -a
+  * ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username
+  * cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
 * 3. If your result is somewhat similar to the following image, then you are good to go.![image](https://user-images.githubusercontent.com/103611867/212762087-d8d08a85-4f86-4425-abce-3eb92cb9d817.png)
 * 4. what do each of the commands mean? 
-   *cd: change current directory 
-   *ls: list all files that's in that folder(the current folder)
-   *ls -lat: shows all files in your folder/directory including cache files and their detailed information like date intialized or visited and who accessed it
-   *ls -a:shows all files in your folder without detailed information. 
-   *cp: creates an exact copy of a file in that given location. 
+   * cd: change current directory 
+   * ls: list all files that's in that folder(the current folder)
+   * ls -lat: shows all files in your folder/directory including cache files and their detailed information like date intialized or visited and who accessed it
+   * ls -a:shows all files in your folder without detailed information. 
+   * cp: creates an exact copy of a file in that given location. 
 
 # Congratualations, you have completed this lab 1 tutorial on how to setup vscode and remote connection in a virutal environment!!!!!!
   
