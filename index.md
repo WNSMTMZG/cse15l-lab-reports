@@ -7,8 +7,8 @@
  * 2. after seeing the following image, click on download for windows. It should install automatically 
    ![image](https://user-images.githubusercontent.com/103611867/212757294-52f1186f-007a-4a7c-8f7f-f6a8700253e1.png)
  * 3. After the install is complete, go to the download folders belonged to your laptop, and install the file you just downloaded
- * 4. should be something that look like this
-   ![image](https://user-images.githubusercontent.com/103611867/212757512-11f13ea4-e209-4e3c-af9a-6696c18f2bc1.png), 
+ * 4. ![image](https://user-images.githubusercontent.com/103611867/212757512-11f13ea4-e209-4e3c-af9a-6696c18f2bc1.png),
+     should be something that look like this
  * 5. click on it, then click "I accept the agreement" to proceed ---->click next
  * 6. In the select additional path page, you can choose options that you prefer, there are no right or wrong answers. ---->click next
  * 7. click install
