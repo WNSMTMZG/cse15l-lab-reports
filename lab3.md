@@ -81,11 +81,11 @@ after
   }
 ```
 Explanation: there are couple mistakes
-    * returned arr instead of newArray
-    * we need to concatenate the element from the old array into the new array
-    * arr would be an empty array after running the for loop because the newArray is initalized to be empty
+1. returned arr instead of newArray
+2. we need to concatenate the element from the old array into the new array
+3.  arr would be an empty array after running the for loop because the newArray is initalized to be empty
  
- # Things learned
+# Things learned
  
 The thing that struck me the most is creating a server, this is very interesting, that not only do I get play around after I built my server, the building process itself is very entertaining. I get to think about what to put into where and what argument do I need to pass in for it to work. The junit testing I'm already pretty familiar from before, but it nice to get practice at it again. OVERALL GREAT LAB!!!
     
