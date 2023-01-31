@@ -1,7 +1,7 @@
-Lab report for incoming cse 15L students 
+##Lab report for incoming cse 15L students 
 
 
-How to install VScode on windows:
+#How to install VScode on windows:
 
   1. click on the following link: https://code.visualstudio.com/
   2. ![image](https://user-images.githubusercontent.com/103611867/212757294-52f1186f-007a-4a7c-8f7f-f6a8700253e1.png), after seeing the following image, click on download for windows. It should install automatically 
@@ -18,7 +18,7 @@ This means you are good to go. Start explooring, Hooray!!!
 
 
 
-Remotely connecting 
+#Remotely connecting 
 
   1. Install git for windows, click on the following link： https://gitforwindows.org/
   2. You should see a page that looks like this, ![image](https://user-images.githubusercontent.com/103611867/212758383-761be574-207f-4873-ad14-17ad501e50bb.png), click on download to proceed
@@ -33,7 +33,7 @@ Remotely connecting
 
   7.After that, you should see the following page if you did it correctly ![image](https://user-images.githubusercontent.com/103611867/212761321-4f3610c3-1fb3-407a-931d-7a4b490d1c10.png)
 
-Run some commands 
+# Run some commands 
   1. Finally, we will be running some commands yourself on the terminal, once you are successfully logged into the remote system. 
   2. Try the following commands and see what print out. 
  
@@ -46,7 +46,7 @@ Run some commands
   *cat /home/linux/ieng6/cs15lwi23/public/hello.txt
   3. If your result is somewhat similar to the following image, then you are good to go.![image](https://user-images.githubusercontent.com/103611867/212762087-d8d08a85-4f86-4425-abce-3eb92cb9d817.png)
 
-  Congratualations, you have completed this lab 1 tutorial on how to setup vscode and remote connection in a virutal environment!!!!!!
+#  Congratualations, you have completed this lab 1 tutorial on how to setup vscode and remote connection in a virutal environment!!!!!!
   
   
   
