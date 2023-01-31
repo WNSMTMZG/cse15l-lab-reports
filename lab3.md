@@ -54,6 +54,7 @@ This will not result in a failure as we basically didn't need to manipulate anyt
     We see that the first test passed for input that doesn't induce a failure, and the second and third test failed for failure-induced input
     
 * Fixing the bug
+
 before  
 
 ```
