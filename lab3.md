@@ -54,7 +54,7 @@ This will not result in a failure as we basically didn't need to manipulate anyt
     We see that the first test passed for input that doesn't induce a failure, and the second and third test failed for failure-induced input
     
 * Fixing the bug
-* before  
+before  
 
 ```
 # code block
@@ -68,7 +68,7 @@ This will not result in a failure as we basically didn't need to manipulate anyt
 ```
  
  
-* after
+after
 ```
 # code block
  static int[] reversed(int[] arr) {
@@ -79,12 +79,12 @@ This will not result in a failure as we basically didn't need to manipulate anyt
     return newArray;
   }
 ```
- * Explanation: there are couple mistakes
+Explanation: there are couple mistakes
     * returned arr instead of newArray
     * we need to concatenate the element from the old array into the new array
     * arr would be an empty array after running the for loop because the newArray is initalized to be empty
  
  # Things learned
  
- * The thing that struck me the most is creating a server, this is very interesting, that not only do I get play around after I built my server, the building process itself is very entertaining. I get to think about what to put into where and what argument do I need to pass in for it to work. The junit testing I'm already pretty familiar from before, but it nice to get practice at it again. OVERALL GREAT LAB!!!
+The thing that struck me the most is creating a server, this is very interesting, that not only do I get play around after I built my server, the building process itself is very entertaining. I get to think about what to put into where and what argument do I need to pass in for it to work. The junit testing I'm already pretty familiar from before, but it nice to get practice at it again. OVERALL GREAT LAB!!!
     
