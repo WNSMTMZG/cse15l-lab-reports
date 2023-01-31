@@ -33,7 +33,7 @@ This means you are good to go. Start explooring, Hooray!!!
   RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
   Are you sure you want to continue connecting (yes/no/[fingerprint])? ----->click on yes
 
- * 7.After that, you should see the following page if you did it correctly ![image](https://user-images.githubusercontent.com/103611867/212761321-4f3610c3-1fb3-407a-931d-7a4b490d1c10.png)
+ *  After that, you should see the following page if you did it correctly ![image](https://user-images.githubusercontent.com/103611867/212761321-4f3610c3-1fb3-407a-931d-7a4b490d1c10.png)
 
 # Run some commands 
 *  Finally, we will be running some commands yourself on the terminal, once you are successfully logged into the remote system. 
