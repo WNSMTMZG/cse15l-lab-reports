@@ -3,10 +3,12 @@
 
 # How to install VScode on windows:
 
-  * 1. click on the following link: https://code.visualstudio.com/
-  * 2. ![image](https://user-images.githubusercontent.com/103611867/212757294-52f1186f-007a-4a7c-8f7f-f6a8700253e1.png), after seeing the following image, click on download for windows. It should install automatically 
+ * 1. click on the following link: https://code.visualstudio.com/
+ * 2. after seeing the following image, click on download for windows. It should install automatically 
+   ![image](https://user-images.githubusercontent.com/103611867/212757294-52f1186f-007a-4a7c-8f7f-f6a8700253e1.png)
  * 3. After the install is complete, go to the download folders belonged to your laptop, and install the file you just downloaded
- * 4. ![image](https://user-images.githubusercontent.com/103611867/212757512-11f13ea4-e209-4e3c-af9a-6696c18f2bc1.png), should be something that look like this
+ * 4. ![image](https://user-images.githubusercontent.com/103611867/212757512-11f13ea4-e209-4e3c-af9a-6696c18f2bc1.png), 
+     should be something that look like this
  * 5. click on it, then click "I accept the agreement" to proceed ---->click next
  * 6. In the select additional path page, you can choose options that you prefer, there are no right or wrong answers. ---->click next
  * 7. click install
@@ -20,12 +22,12 @@ This means you are good to go. Start explooring, Hooray!!!
 
 # Remotely connecting 
 
-  1. Install git for windows, click on the following link： https://gitforwindows.org/
-  2. You should see a page that looks like this, ![image](https://user-images.githubusercontent.com/103611867/212758383-761be574-207f-4873-ad14-17ad501e50bb.png), click on download to proceed
-  3. follow the instruction to install git
-  4. Open Bash on windows using vscode
-  5. enter the following command in your terminal ssh cs15lwi23+your student account+@ieng6.ucsd.edu
-  6. If this is the first time you ever opened this terminal, you should see a message as the following: 
+ * 1. Install git for windows, click on the following link： https://gitforwindows.org/
+ * 2. You should see a page that looks like this, ![image](https://user-images.githubusercontent.com/103611867/212758383-761be574-207f-4873-ad14-17ad501e50bb.png), click on download to proceed
+ * 3. follow the instruction to install git
+ * 4. Open Bash on windows using vscode
+ * 5. enter the following command in your terminal ssh cs15lwi23+your student account+@ieng6.ucsd.edu
+ * 6. If this is the first time you ever opened this terminal, you should see a message as the following: 
  
   The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
   RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
